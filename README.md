@@ -25,7 +25,9 @@ VGG-Kface: An Optimization Study on Korean Face Recognition Using VGG-Face
 - **Beom-Seok Ko**, Min-jin Cho, Min-Gyeong Kim, Seung-Han Kim, Seong-Chan Lee and Yong-man Yu
 - *Korea Information Processing Society, 2023 (ACK 2023)*
 
-  
+# Tech Stack
+<img alt="HTML% src="https://img.shields.io/badge/python.svg?style=flat-square&logo=PYTHON&logoColor=blue"/>
+
 <!--
 **matrix215/matrix215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
