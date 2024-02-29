@@ -17,13 +17,13 @@ StyleBoost: Personalizing Text-to-Image Generation in Any Style using Diffusion
 ## Conference
 StyleBoost: Personalizing Text-to-Image Generation in Any Style using DreamBooth [[doi]](https://ieeexplore.ieee.org/document/10392676)
 - JUNSEO PARK, **BEOMSEOK KO**, and HYERYUNG JANG
-- International Conference on ICT Convergence, 2023 (ICTC 2023)
+- *International Conference on ICT Convergence, 2023 (ICTC 2023)*
 
 ## Domestic
 
 VGG-Kface: An Optimization Study on Korean Face Recognition Using VGG-Face
 - **Beom-Seok Ko**, Min-jin Cho, Min-Gyeong Kim, Seung-Han Kim, Seong-Chan Lee and Yong-man Yu
-- Korea Information Processing Society, 2023 (ACK 2023)
+- *Korea Information Processing Society, 2023 (ACK 2023)*
 
   
 <!--
