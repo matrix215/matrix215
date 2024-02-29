@@ -27,6 +27,7 @@ VGG-Kface: An Optimization Study on Korean Face Recognition Using VGG-Face
 
 # Tech Stack
 <img alt="PYTHON" src="https://img.shields.io/badge/python-3776AB.svg?style=flat-square&logo=PYTHON&logoColor=white"/>
+<img alt="PYTORCH" src="https://img.shields.io/badge/pytorch-EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white"/>
 
 <!--
 **matrix215/matrix215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
