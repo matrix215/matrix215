@@ -27,6 +27,8 @@ VGG-Kface: An Optimization Study on Korean Face Recognition Using VGG-Face
 
 # Tech Stack
 <img alt="PYTHON" src="https://img.shields.io/badge/python-3776AB.svg?style=flat-square&logo=PYTHON&logoColor=white"/> <img alt="PYTORCH" src="https://img.shields.io/badge/pytorch-EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white"/>  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white"/> <img alt="Keras" src="https://img.shields.io/badge/Keras-#D00000.svg?style=flat-square&logo=Keras&logoColor=white"/> <img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?style=flat-square&logo=C&logoColor=white"/> <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?style=flat-square&logo=NumPy&logoColor=white"/> 
+# Tools
+<img alt="visualstudiocode" src="https://img.shields.io/badge/visualstudiocode-007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img alt="anaconda" src="https://img.shields.io/badge/anaconda-44A833.svg?style=flat-square&logo=anaconda&logoColor=white"/> <img alt="pycharm" src="https://img.shields.io/badge/pycharm-000000.svg?style=flat-square&logo=pycharm&logoColor=white"/>
 
 <!--
 **matrix215/matrix215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
