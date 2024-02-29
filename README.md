@@ -21,7 +21,7 @@ StyleBoost: Personalizing Text-to-Image Generation in Any Style using DreamBooth
 
 ## Domestic
 
-VGG-Kface: An Optimization Study on Korean Face Recognition Using VGG-Face [[site]](http://kips.or.kr/bbs/confn/article/3347)
+VGG-Kface: An Optimization Study on Korean Face Recognition Using VGG-Face 
 - **Beom-Seok Ko**, Min-jin Cho, Min-Gyeong Kim, Seung-Han Kim, Seong-Chan Lee and Yong-man Yu
 - *Korea Information Processing Society, 2023 (ACK 2023)*
 
