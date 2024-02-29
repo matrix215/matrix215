@@ -26,7 +26,7 @@ VGG-Kface: An Optimization Study on Korean Face Recognition Using VGG-Face
 - *Korea Information Processing Society, 2023 (ACK 2023)*
 
 # Tech Stack
-<img alt="PYTHON" src="https://img.shields.io/badge/python-#3776AB.svg?style=flat-square&logo=PYTHON&logoColor=blue"/>
+<img alt="PYTHON" src="https://img.shields.io/badge/python-3776AB.svg?style=flat-square&logo=PYTHON&logoColor=blue"/>
 
 <!--
 **matrix215/matrix215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
