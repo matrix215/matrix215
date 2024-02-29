@@ -25,9 +25,9 @@ VGG-Kface: An Optimization Study on Korean Face Recognition Using VGG-Face
 - **Beom-Seok Ko**, Min-jin Cho, Min-Gyeong Kim, Seung-Han Kim, Seong-Chan Lee and Yong-man Yu
 - *Korea Information Processing Society, 2023 (ACK 2023)*
 
-# Tech Stack
+## :black_nib: Tech Stack
 <img alt="PYTHON" src="https://img.shields.io/badge/python-3776AB.svg?style=flat-square&logo=PYTHON&logoColor=white"/> <img alt="PYTORCH" src="https://img.shields.io/badge/pytorch-EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white"/>  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white"/> <img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?style=flat-square&logo=C&logoColor=white"/> <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?style=flat-square&logo=NumPy&logoColor=white"/> 
-# Tools
+## :hammer: Tools
 <img alt="visualstudiocode" src="https://img.shields.io/badge/visualstudiocode-007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img alt="anaconda" src="https://img.shields.io/badge/anaconda-44A833.svg?style=flat-square&logo=anaconda&logoColor=white"/> <img alt="pycharm" src="https://img.shields.io/badge/pycharm-000000.svg?style=flat-square&logo=pycharm&logoColor=white"/> <img alt="visualstudio" src="https://img.shields.io/badge/visualstudio-5C2D91.svg?style=flat-square&logo=visualstudio&logoColor=white"/>
 
 <!--
