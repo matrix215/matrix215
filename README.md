@@ -1,6 +1,6 @@
 ### Hi Welcome, I'm BEOMSEOK KO 👋
 
-# ::mag_right: Research Interests
+# :mag_right: Research Interests
 - Deep Learning, Generative Models, Generative Model Lightweight
 
 # :books: Education
