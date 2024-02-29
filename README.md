@@ -4,8 +4,8 @@
 - Deep Learning, Generative Models, Generative Model Lightweight
 
 # :books: Education
-- B.S. in Information Communication Engineering, Dongguk University, Seoul, Korea
-- M.S. in Artificial Intelligence, Dongguk University, Seoul, Korea
+- B.S. in Information Communication Engineering, Dongguk University, Seoul, Korea (2018 ~ 2023)
+- M.S. in Artificial Intelligence, Dongguk University, Seoul, Korea (2023.08 ~)
 
 # :memo: Publications
 
