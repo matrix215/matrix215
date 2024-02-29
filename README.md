@@ -15,7 +15,7 @@ StyleBoost: Personalizing Text-to-Image Generation in Any Style using Diffusion
 - Under review in *ACM Transactions on Multimedia Computing, Communications, and Applications*
 
 ## Conference
-StyleBoost: Personalizing Text-to-Image Generation in Any Style using DreamBooth [doi](https://ieeexplore.ieee.org/document/10392676)
+StyleBoost: Personalizing Text-to-Image Generation in Any Style using DreamBooth [[doi]](https://ieeexplore.ieee.org/document/10392676)
 - JUNSEO PARK, **BEOMSEOK KO**, and HYERYUNG JANG
 - International Conference on ICT Convergence, 2023 (ICTC 2023)
 
