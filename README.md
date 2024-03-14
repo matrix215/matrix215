@@ -12,7 +12,7 @@
 ## Journal
 StyleBoost: Personalizing Text-to-Image Generation in Any Style using Diffusion
 - JUNSEO PARK, **BEOMSEOK KO**, and HYERYUNG JANG
-- Under review in *ACM Transactions on Multimedia Computing, Communications, and Applications (ACM TOMM) Q1 IF: 5.1*
+- To be reviewed in *ACM Transactions on Multimedia Computing, Communications, and Applications (ACM TOMM) Q1 IF: 5.1*
 
 ## Conference
 StyleBoost: Personalizing Text-to-Image Generation in Any Style using DreamBooth [[doi]](https://ieeexplore.ieee.org/document/10392676)
